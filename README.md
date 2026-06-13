@@ -24,7 +24,7 @@ You'll need: `ROCR`, `pROC`, `randomForest`, `readxl`, `boot`, `ggplot2`, `knitr
 install.packages(c("ROCR", "pROC", "randomForest", "readxl", "boot", "ggplot2", "knitr"))
 ```
 
-📥 **Get the data:** download the dataset folder from [Dropbox](https://www.dropbox.com/scl/fo/yk1gpw43jxzgflge85lv5/ALD42OHbTLizrDMtNtyBGk4?rlkey=58wlu57whlu2qvd3ti1x3rpa6&st=9ubwiw1c&dl=0).
+📥 **Get the data:** download the CLEANED dataset folder from [Dropbox](https://www.dropbox.com/scl/fo/yk1gpw43jxzgflge85lv5/ALD42OHbTLizrDMtNtyBGk4?rlkey=58wlu57whlu2qvd3ti1x3rpa6&st=9ubwiw1c&dl=0).
 
 ⚠️ **Heads up:** the current version uses hardcoded local paths. Pointing the data path to your own copy of the dataset is needed until I migrate to relative paths (see roadmap). 📁
 
@@ -40,4 +40,4 @@ install.packages(c("ROCR", "pROC", "randomForest", "readxl", "boot", "ggplot2", 
 This is **archived student work** — kept for transparency and as a record of where I started. The methodology reflects what I knew at the time, not necessarily what I'd do today. 🌱
 
 ---
-*Università di Trento · Economics & Management · 110/110 cum laude*
+*Università di Trento · Economics & Management · 
